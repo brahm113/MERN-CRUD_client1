@@ -54,7 +54,7 @@ const App = () => {
 
     <br />
     
-    <h1>Jai Hind</h1>
+    <h1>MERN Blogs :)</h1>
 
     <hr />
 
